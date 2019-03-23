@@ -1,0 +1,26 @@
+{
+  "name": "crb-resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeRusBear/npm-package-resume.git"
+  },
+  "author": "CreativeRusBear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreativeRusBear/npm-package-resume/issues"
+  },
+  "homepage": "https://github.com/CreativeRusBear/npm-package-resume#readme",
+  "bin": {
+    "crb-resume": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}
