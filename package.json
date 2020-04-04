@@ -1,16 +1,24 @@
 {
   "name": "crb-resume",
-  "version": "1.0.0",
-  "description": "My resume",
+  "version": "1.0.2",
+  "description": "Small resume about me",
+  "keywords": [
+    "npm",
+    "npm-package",
+    "resume",
+    "small-resume",
+    "javascript"
+  ],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "docs": "node docma.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CreativeRusBear/npm-package-resume.git"
   },
-  "author": "CreativeRusBear",
+  "author": "Artem Gusev <gusev2014russia@mail.ru> (CreativeRusBear)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CreativeRusBear/npm-package-resume/issues"
@@ -22,5 +30,9 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2"
+  },
+  "devDependencies": {
+    "docma": "^3.2.2",
+    "eslint": "^6.8.0"
   }
 }

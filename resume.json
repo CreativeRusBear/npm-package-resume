@@ -1,11 +1,21 @@
 {
   "Education": [
-    "I studying in Zelenodolsk mechanical college (programming in computer systems)",
-    "I am a graduate"
+    "I graduated from Zelenodolsk Mechanical College with excellent marks (June 2019)",
+    "I studied on the developer specialty"
   ],
-  "My Github profile": [
-    "Link on my Github profile: https://github.com/CreativeRusBear",
-    "Link on my Gists:          https://gist.github.com/CreativeRusBear"
+  "Work": [
+    "I worked Frontend-developer at company \"Bidus Digital\" (March 2019 - May 2019)",
+    "I'am working JavaScript-developer at company \"BARS Group\" since June 2019"
+  ],
+  "Contacts & Links": [
+    "Github profile: https://github.com/CreativeRusBear",
+    "My Gists:       https://gist.github.com/CreativeRusBear",
+    "LinkedIn:       https://www.linkedin.com/in/artem-gusev",
+    "Email:          Gusev2014Russia@mail.ru",
+    "Gmail:          tema4910@gmail.com"
+  ],
+  "Talks": [
+    "moscowcss №17: \"CSS features in Web Components\""
   ],
   "Personal qualities": [
     "Purposeful",
@@ -16,45 +26,22 @@
   ],
   "Tech Stack": [
     "HTML",
-    "CSS (flexbox, grid)",
-    "JavaScript (ES5, ES6)",
-    "JQuery",
-    "Canvas",
-    "SCSS",
-    "Gulp",
-    "Webpack",
-    "Babel",
+    "CSS",
+    "JavaScript",
+    "SPA and PWA",
+    "Web Components",
+    "React",
+    "Node.js",
+    "Express",
     "C#",
-    "SQL",
-    "MySQL",
-    "Delphi",
-    "npm",
-    "git",
-    "Adobe Photoshop"
+    "T-SQL"
   ],
   "Projects": [
     "Desktop application for a travel company: https://github.com/CreativeRusBear/Voyage-travel-service",
-    "Tic tac toe: https://github.com/CreativeRusBear/Tic-tac-toe",
-    "Website travel company: https://creativerusbear.github.io/voyage/",
-    "Website of the company: https://creativerusbear.github.io/company/",
-    "Educational company website: https://creativerusbear.github.io/education/dist/main.html\n\n",
-    "The rest of the work you can see by clicking on the following link: https://github.com/CreativeRusBear?tab=repositories"
-  ],
-  "Advanced training courses, additional training, achievements, etc": [
-    "FreeCodeCamp (learning programming)",
-    "Lingualeo (learning English language)",
-    "WarriorJS (a game for honing javascript skills)",
-    "Expert Regional Championship Worldskills Russia of the Republic of Tatarstan",
-    "GRID GARDEN (learn CSS grid)",
-    "FLEXBOX FROGGY (learn CSS flexbox)",
-    "CCNA Routing and Switching. Introduction to Networking Technologies (Cisco Networking Academy)",
-    "Conference \"DUMP\" (Kazan Developer Conference)",
-    "Diploma of 1 degree of the Republican competition of information systems development \"Database as the basis of information systems\"",
-    "HTML Academy (learn HTML and CSS)"
-  ],
-  "Contact": [
-    "Email: Gusev2014Russia@mail.ru",
-    "Gmail: tema4910@gmail.com",
-    "VK:    https://vk.com/a_gusev"
+    "Travel company website:                   https://creativerusbear.github.io/voyage/",
+    "Cheetah Software application:             https://github.com/CreativeRusBear/Cheetah_Software",
+    "Cryptocurrency Price Dashboard:           https://github.com/CreativeRusBear/Cryptocurrency-Price-Dashboard-App",
+    "Chat.io:                                  https://github.com/CreativeRusBear/node-chat",
+    "Ping-pong PWA:                            https://github.com/CreativeRusBear/ping-pong"
   ]
 }

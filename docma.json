@@ -1,0 +1,143 @@
+{
+  "jsdoc": {
+    "encoding": "utf8",
+    "recurse": false,
+    "pedantic": false,
+    "access": null,
+    "package": true,
+    "module": true,
+    "undocumented": false,
+    "undescribed": false,
+    "ignored": false,
+    "hierarchy": true,
+    "sort": "alphabetic",
+    "relativePath": null,
+    "filter": null,
+    "allowUnknownTags": true,
+    "plugins": []
+  },
+  "markdown": {
+    "gfm": true,
+    "tables": true,
+    "breaks": false,
+    "pedantic": false,
+    "sanitize": false,
+    "smartLists": true,
+    "smartypants": true,
+    "xhtml": false,
+    "tasks": true,
+    "emoji": true
+  },
+  "app": {
+    "title": "crb-resume",
+    "meta": [
+      {
+        "charset": "UTF-8"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+      },
+      {
+        "http-equiv": "X-UA-Compatible",
+        "content": "ie=edge"
+      },
+      {
+        "name": "description",
+        "content": "crb-resume website"
+      }
+    ],
+    "base": "/docs",
+    "entrance": "content:readme",
+    "routing": "path",
+    "server": "github",
+    "favicon": "./assets/img/favicon.ico"
+  },
+  "template": {
+    "path": "zebra",
+    "options": {
+      "title": {
+        "label": "crb-resume",
+        "href": "."
+      },
+      "logo": "assets/logo.png",
+      "sidebar": {
+        "enabled": false,
+        "outline": "tree",
+        "collapsed": false,
+        "toolbar": false,
+        "itemsFolded": false,
+        "itemsOverflow": "crop",
+        "badges": true,
+        "search": false,
+        "animations": true
+      },
+      "symbols": {
+        "autoLink": true,
+        "params": "list",
+        "enums": "list",
+        "props": "list",
+        "meta": true
+      },
+      "contentView": {
+        "bookmarks": "h1,h2,h3",
+        "faLibs": "all"
+      },
+      "navbar": {
+        "enabled": true,
+        "fixed": true,
+        "dark": true,
+        "animations": true,
+        "menu": [
+          {
+            "href": "https://www.npmjs.com/package/crb-resume",
+            "iconClass": "fab fa-lg fa-npm",
+            "target": "_blank"
+          },
+          {
+            "iconClass": "fas fa-book",
+            "label": "Information",
+            "items": [
+              {
+                "label": "Documentation",
+                "href": "api"
+              },
+              {
+                "separator": true
+              },
+              {
+                "label": "Change Log",
+                "href": "changelog"
+              },
+              {
+                "separator": true
+              },
+              {
+                "label": "License",
+                "href": "license"
+              }
+            ]
+          },
+          {
+            "iconClass": "fab fa-lg fa-github",
+            "href": "https://github.com/CreativeRusBear/npm-package-resume",
+            "target": "_blank"
+          }
+        ]
+      }
+    }
+  },
+  "src": [
+    "./index.js",
+    "./CHANGELOG.md",
+    "./README.md",
+    "./LICENSE:md"
+  ],
+  "dest": "./docs",
+  "assets": {
+    "/assets": [
+      "./assets/img/*.*"
+    ]
+  },
+  "clean": true
+}
