@@ -12,8 +12,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "docs": "node docma.js",
-    "deploy": "gh-pages -d docs"
+    "docs": "node docma.js"
   },
   "repository": {
     "type": "git",

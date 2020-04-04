@@ -12,11 +12,11 @@ This file describes notable changes in each version of **crb-resume** package.
 
 ### Major changes
 
- + Added [eslint](.eslintrc.json) config;
- + Added [docma config](docma.json);
+ + Added [eslint](https://github.com/CreativeRusBear/npm-package-resume/blob/master/.eslintrc.json) config;
+ + Added [docma config](https://github.com/CreativeRusBear/npm-package-resume/blob/master/docma.json);
  + Added website for the package.
  
 ### Enhancements
- + Modified date in [copyright section](LICENSE);
- + Rewrote [resume.json](resume.json) file;
- + Changed [.gitignore](.gitignore) config.
+ + Modified date in [copyright section](https://github.com/CreativeRusBear/npm-package-resume/blob/master/LICENSE);
+ + Rewrote [resume.json](https://github.com/CreativeRusBear/npm-package-resume/blob/master/resume.json) file;
+ + Changed [.gitignore](https://github.com/CreativeRusBear/npm-package-resume/blob/master/.gitignore) config.
