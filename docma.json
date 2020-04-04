@@ -133,7 +133,7 @@
     "./README.md",
     "./LICENSE:md"
   ],
-  "dest": "./docs/",
+  "dest": "./docs",
   "assets": {
     "/assets": [
       "./assets/img/*.*"
