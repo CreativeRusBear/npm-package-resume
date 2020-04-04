@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/CreativeRusBear/npm-package-resume/issues"
   },
-  "homepage": "https://github.com/CreativeRusBear/npm-package-resume#readme",
+  "homepage": "https://github.com/CreativeRusBear/npm-package-resume/docs/",
   "bin": {
     "crb-resume": "./index.js"
   },

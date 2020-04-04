@@ -12,10 +12,11 @@ This file describes notable changes in each version of **crb-resume** package.
 
 ### Major changes
 
- + Modified date in [copyright section](LICENSE);
- + Added eslint config;
- + Interaction with Babel has been added.
+ + Added [eslint](.eslintrc.json) config;
+ + Added [docma config](docma.json);
+ + Added website for the package.
  
 ### Enhancements
-
-+ README.md file has been rewritten.
+ + Modified date in [copyright section](LICENSE);
+ + Rewrote [resume.json](resume.json) file;
+ + Changed [.gitignore](.gitignore) config.
