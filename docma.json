@@ -43,7 +43,7 @@
         "content": "crb-resume website"
       }
     ],
-    "base": "/",
+    "base": "/npm-package-resume",
     "entrance": "content:readme",
     "routing": "path",
     "server": "github",
