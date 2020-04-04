@@ -47,7 +47,7 @@
         "content": "crb-resume website"
       }
     ],
-    "base": "/docs",
+    "base": "/",
     "entrance": "content:readme",
     "routing": "path",
     "server": "github",
