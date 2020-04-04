@@ -12,7 +12,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "docs": "node docma.js"
+    "docs": "node docma.js",
+    "deploy": "gh-pages -d docs"
   },
   "repository": {
     "type": "git",
@@ -23,12 +24,13 @@
   "bugs": {
     "url": "https://github.com/CreativeRusBear/npm-package-resume/issues"
   },
-  "homepage": "https://github.com/CreativeRusBear/npm-package-resume/docs/",
+  "homepage": "https://creativerusbear.github.io/npm-package-resume/",
   "bin": {
     "crb-resume": "./index.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",
+    "gh-pages": "^2.2.0",
     "inquirer": "^6.2.2"
   },
   "devDependencies": {

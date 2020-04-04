@@ -50,6 +50,7 @@
     "base": "/docs",
     "entrance": "content:readme",
     "routing": "path",
+    "server": "github",
     "favicon": "./assets/img/favicon.ico"
   },
   "template": {
@@ -132,7 +133,7 @@
     "./README.md",
     "./LICENSE:md"
   ],
-  "dest": "./docs",
+  "dest": "./docs/",
   "assets": {
     "/assets": [
       "./assets/img/*.*"
