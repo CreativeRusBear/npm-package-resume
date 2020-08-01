@@ -1,21 +1,21 @@
 {
   "Education": [
     "I graduated from Zelenodolsk Mechanical College with excellent marks (June 2019)",
-    "I studied on the developer specialty"
+    "I studied on the software engineer specialty"
   ],
   "Work": [
-    "I worked Frontend-developer at company \"Bidus Digital\" (March 2019 - May 2019)",
-    "I'am working JavaScript-developer at company \"BARS Group\" since June 2019"
+    "I worked Frontend-developer at \"Bidus Digital\" company (March 2019 - May 2019)",
+    "I'm working JavaScript-developer at \"BARS Group\" company since June 2019"
   ],
   "Contacts & Links": [
-    "Github profile: https://github.com/CreativeRusBear",
-    "My Gists:       https://gist.github.com/CreativeRusBear",
+    "Github profile: https://github.com/corocoto",
+    "My Gists:       https://gist.github.com/corocoto",
     "LinkedIn:       https://www.linkedin.com/in/artem-gusev",
     "Email:          Gusev2014Russia@mail.ru",
     "Gmail:          tema4910@gmail.com"
   ],
   "Talks": [
-    "moscowcss №17: \"CSS features in Web Components\""
+    "moscowcss №17: \"CSS features in Web Components\".\n   Link on presentation: https://clck.ru/Pr2ND"
   ],
   "Personal qualities": [
     "Purposeful",
@@ -31,17 +31,21 @@
     "SPA and PWA",
     "Web Components",
     "React",
+    "Redux",
     "Node.js",
-    "Express",
     "C#",
-    "T-SQL"
+    "SQL"
   ],
   "Projects": [
-    "Desktop application for a travel company: https://github.com/CreativeRusBear/Voyage-travel-service",
-    "Travel company website:                   https://creativerusbear.github.io/voyage/",
-    "Cheetah Software application:             https://github.com/CreativeRusBear/Cheetah_Software",
-    "Cryptocurrency Price Dashboard:           https://github.com/CreativeRusBear/Cryptocurrency-Price-Dashboard-App",
-    "Chat.io:                                  https://github.com/CreativeRusBear/node-chat",
-    "Ping-pong PWA:                            https://github.com/CreativeRusBear/ping-pong"
+    "Flappy Bird video game (PWA):                                            https://corocoto.github.io/flappy-bird/",
+    "Desktop application for a Voyage travel company:                         https://github.com/corocoto/Voyage-travel-service",
+    "Voyage travel company website:                                           https://corocoto.github.io/voyage/",
+    "Cheetah Software (a platform that provides detailed info about your PC): https://github.com/corocoto/Cheetah_Software",
+    "Cryptocurrency Price Dashboard:                                          https://github.com/corocoto/Cryptocurrency-Price-Dashboard-App",
+    "Ping-pong video game (PWA):                                              https://corocoto.github.io/ping-pong/"
+  ],
+  "Open Source": [
+    "I'm working on translation of dayjs package documentation from English to Russian.\n   Link on the package: https://github.com/iamkun/dayjs\n   Link on the documentation website: https://day.js.org/ru/\n   Members list who working on the translation of documentation: https://crowdin.com/project/dayjs/translators",
+    "I translated article about :has() pseudo-class on MDN from English to Russian.\n   Link on this article: https://developer.mozilla.org/ru/docs/Web/CSS/:has"
   ]
 }

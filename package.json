@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CreativeRusBear/npm-package-resume.git"
+    "url": "git+https://github.com/corocoto/npm-package-resume.git"
   },
-  "author": "Artem Gusev <gusev2014russia@mail.ru> (CreativeRusBear)",
+  "author": "Artem Gusev (corocoto) <gusev2014russia@mail.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CreativeRusBear/npm-package-resume/issues"
+    "url": "https://github.com/corocoto/npm-package-resume/issues"
   },
-  "homepage": "https://creativerusbear.github.io/npm-package-resume/",
+  "homepage": "https://corocoto.github.io/npm-package-resume/",
   "bin": {
     "crb-resume": "./index.js"
   },

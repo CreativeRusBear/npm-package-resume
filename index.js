@@ -3,12 +3,12 @@
 /**
  * @version v1.0.2
  * @file My small resume on the NPM-package form
- * @author Artem Gusev <gusev2014russia@mail.ru> (CreativeRusBear)
+ * @author Artem Gusev <gusev2014russia@mail.ru> (corocoto)
  * @copyright 2019-present Artem Gusev
  * @licence
  * MIT License
  *
- * Copyright (c) 2019 Artem Gusev
+ * Copyright (c) 2019 - present Artem Gusev
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -48,7 +48,7 @@ const resumePrompts = {
  * @description Starter function, that welcome you and run `resumeHandler` function
  */
 function main () {
-	console.log('\nHello, my name is Artem Gusev (CreativeRusBear). Welcome to my resume :)\n');
+	console.log('\nHello, my name is Artem Gusev (corocoto). Welcome to my resume :)\n');
 	resumeHandler();
 }
 

@@ -17,6 +17,15 @@ This file describes notable changes in each version of **crb-resume** package.
  + Added website for the package.
  
 ### Enhancements
+
  + Modified date in [copyright section](https://github.com/CreativeRusBear/npm-package-resume/blob/master/LICENSE);
  + Rewrote [resume.json](https://github.com/CreativeRusBear/npm-package-resume/blob/master/resume.json) file;
  + Changed [.gitignore](https://github.com/CreativeRusBear/npm-package-resume/blob/master/.gitignore) config.
+ 
+ ## 1.0.3 (August 2020)
+ 
+ ### Enhancements
+ 
+ + Updated info and links.
+ 
+ 
