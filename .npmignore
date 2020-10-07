@@ -92,7 +92,7 @@ Thumbs.db
 test
 docs/
 assets/
-eslintrc.json
+.eslintrc.json
 CHANGELOG.md
 docma.js
 docma.json
