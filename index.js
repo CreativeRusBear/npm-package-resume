@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * @version v1.0.3
+ * @version v1.0.4
  * @file My small resume on the NPM-package form
  * @author Artem Gusev <gusev2014russia@mail.ru> (corocoto)
  * @copyright 2019-present Artem Gusev
