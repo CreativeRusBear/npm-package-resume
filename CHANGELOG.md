@@ -28,4 +28,9 @@ This file describes notable changes in each version of **crb-resume** package.
  
  + Updated info and links.
  
+## 1.0.4 (October 2020) 
+ 
+ ### Enhancements
+ 
+ + Added [.npmignore](https://github.com/corocoto/npm-package-resume/blob/master/.npmignore) file;
  
