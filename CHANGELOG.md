@@ -22,15 +22,15 @@ This file describes notable changes in each version of **crb-resume** package.
  + Rewrote [resume.json](https://github.com/corocoto/npm-package-resume/blob/master/resume.json) file;
  + Changed [.gitignore](https://github.com/corocoto/npm-package-resume/blob/master/.gitignore) config.
  
- ## 1.0.3 (August 2020)
+## 1.0.3 (August 2020)
  
- ### Enhancements
+### Enhancements
  
  + Updated info and links.
  
 ## 1.0.4 (October 2020) 
  
- ### Enhancements
+### Enhancements
  
  + Added [.npmignore](https://github.com/corocoto/npm-package-resume/blob/master/.npmignore) file;
  
